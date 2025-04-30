@@ -2,16 +2,16 @@
 
 This project is a self-practice initiative for developing the frontend of a clothing e-commerce website using **Vue + Vite**, **Tailwind CSS**, and **DaisyUI**. This branch is dedicated to showcasing the frontend design and functionality using mock data, without connecting to a backend.
 
-## 📌 Branch Overview
+## Branch Overview
 
 - **`frontend-concept`**: A frontend-only version of the clothing e-commerce website, built with mock data for product listings, cart management, and other user interactions.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend**: Vue.js, Vite
 - **UI/UX**: Tailwind CSS, DaisyUI
 
-## ✨ Features
+## Features
 
 ### User Features
 
@@ -30,7 +30,7 @@ This project is a self-practice initiative for developing the frontend of a clot
 - **User Management (Mock)**: Admin can view user profiles and update user information (mock data).
 - **Dashboard (Mock)**: A simple admin dashboard to manage key statistics like product count, order status, and user information.
   
-## 🚀 Getting Started
+## Getting Started
 
 To get started with this project locally, follow the steps below:
 
@@ -46,3 +46,8 @@ To get started with this project locally, follow the steps below:
 npm install
 # or
 yarn install
+
+# For frontend development
+npm run dev
+# or
+yarn dev

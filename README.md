@@ -12,7 +12,7 @@ An e-commerce application showcasing both frontend design and fullstack developm
 - **Frontend**: Vue.js, Vite, Tailwind CSS, DaisyUI
 - **Backend**: Firebase (Authentication, Firestore Database)
 
-## ✨ Features
+## Features
 
 - **Product Listing**: Display products in a grid layout, with filtering and sorting options.
 - **Product Details**: Show detailed product information including images, descriptions, and available sizes.
@@ -22,7 +22,7 @@ An e-commerce application showcasing both frontend design and fullstack developm
 - **Responsive Design**: Fully responsive layout for various devices.
 - **Order Management**: Simulate order placement and order history management in the fullstack version. (frontend only/fullstack)
 
-## 🚀 Getting Started
+## Getting Started
 
 To get started with this project locally, follow the steps below:
 

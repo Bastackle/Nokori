@@ -1,29 +1,48 @@
-# easy-commerce
+# Nokori - Clothing E-commerce Website
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a self-practice initiative for developing the frontend of a clothing e-commerce website using **Vue + Vite**, **Tailwind CSS**, and **DaisyUI**. This branch is dedicated to showcasing the frontend design and functionality using mock data, without connecting to a backend.
 
-## Recommended IDE Setup
+## 📌 Branch Overview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **`frontend-concept`**: A frontend-only version of the clothing e-commerce website, built with mock data for product listings, cart management, and other user interactions.
 
-## Customize configuration
+## 🔧 Tech Stack
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- **Frontend**: Vue.js, Vite
+- **UI/UX**: Tailwind CSS, DaisyUI
 
-## Project Setup
+## ✨ Features
 
-```sh
+### User Features
+
+- **Homepage**: Display featured products and categories for quick navigation.
+- **Product Listing**: Showcase a grid of clothing products with filtering and sorting options.
+- **Product Details**: Show detailed information about a product, including images, descriptions.
+- **Cart**: Add products to the shopping cart and manage cart items (mock data).
+- **Responsive Design**: Fully responsive layout for various screen sizes.
+- **Search**: Search products by name.
+- **Checkout (Simulated)**: Simulate the checkout process (no real payment processing).
+
+### Back Office (Admin) Features
+
+- **Product Management (Mock)**: Admin can view, edit, and delete products from the list (no real backend).
+- **Order Management (Mock)**: Simulate order management functionality where the admin can view and manage orders (mock data).
+- **User Management (Mock)**: Admin can view user profiles and update user information (mock data).
+- **Dashboard (Mock)**: A simple admin dashboard to manage key statistics like product count, order status, and user information.
+  
+## 🚀 Getting Started
+
+To get started with this project locally, follow the steps below:
+
+### Prerequisites
+
+- Node.js >= 14.x
+- npm or yarn
+
+### Install Dependencies
+
+```bash
+# Install dependencies
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# or
+yarn install

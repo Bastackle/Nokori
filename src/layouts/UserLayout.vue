@@ -152,6 +152,7 @@ const login = () => {
 
 const logout = () => {
     authStore.logout()
+    router.push({ name: 'home' })
 }
 
 const handleSearch = (event) => {
